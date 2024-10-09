@@ -1,0 +1,51 @@
+body {
+    background-color: #f0f2f5; /* Color de fondo suave */
+  }
+  
+  .auth-container {
+    background-color: #ffffff; /* Fondo blanco para el contenedor */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    padding: 20px; /* Espaciado interno */
+    max-width: 400px; /* Ancho máximo */
+    margin: 100px auto; /* Centrar en la página */
+    text-align: center; /* Centrar texto */
+  }
+  
+  h2 {
+    color: #333; /* Color del título */
+    margin-bottom: 20px; /* Espaciado inferior */
+  }
+  
+  .input-group {
+    margin-bottom: 15px; /* Espaciado entre los grupos de entrada */
+  }
+  
+  label {
+    display: block; /* Hacer que la etiqueta ocupe todo el ancho */
+    margin-bottom: 5px; /* Espaciado inferior */
+  }
+  
+  input {
+    width: 100%; /* Ancho completo */
+    padding: 10px; /* Espaciado interno */
+    border: 1px solid #ddd; /* Borde suave */
+    border-radius: 4px; /* Bordes redondeados */
+    font-size: 16px; /* Tamaño de fuente */
+  }
+  
+  button {
+    background-color: #007bff; /* Color de fondo del botón */
+    color: white; /* Color del texto del botón */
+    padding: 10px 15px; /* Espaciado interno del botón */
+    border: none; /* Sin borde */
+    border-radius: 4px; /* Bordes redondeados */
+    cursor: pointer; /* Cambiar cursor al pasar sobre el botón */
+    font-size: 16px; /* Tamaño de fuente */
+    margin-top: 10px; /* Espaciado superior */
+  }
+  
+  button:hover {
+    background-color: #0056b3; /* Color más oscuro al pasar el mouse */
+  }
+  
